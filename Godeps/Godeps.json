@@ -1,6 +1,6 @@
 {
   "ImportPath": "k8s.io/api",
-  "GoVersion": "go1.8",
+  "GoVersion": "go1.9",
   "GodepVersion": "v79",
   "Packages": [
     "./..."
@@ -143,10 +143,6 @@
       "Rev": "5c2ad6597ec5889151b8076d2a54b001605c69ed"
     },
     {
-      "ImportPath": "k8s.io/apimachinery/pkg/apis/meta/v1",
-      "Rev": "5c2ad6597ec5889151b8076d2a54b001605c69ed"
-    },
-    {
       "ImportPath": "k8s.io/apimachinery/pkg/conversion",
       "Rev": "5c2ad6597ec5889151b8076d2a54b001605c69ed"
     },
@@ -221,6 +217,30 @@
     {
       "ImportPath": "k8s.io/kube-openapi/pkg/common",
       "Rev": "39a7bf85c140f972372c2a0d1ee40adbf0c8bfe1"
+    },
+    {
+      "ImportPath": "k8s.io/apimachinery/pkg/api/resource",
+      "Rev": "5c2ad6597ec5889151b8076d2a54b001605c69ed"
+    },
+    {
+      "ImportPath": "k8s.io/apimachinery/pkg/apis/meta/v1",
+      "Rev": "5c2ad6597ec5889151b8076d2a54b001605c69ed"
+    },
+    {
+      "ImportPath": "k8s.io/apimachinery/pkg/runtime",
+      "Rev": "5c2ad6597ec5889151b8076d2a54b001605c69ed"
+    },
+    {
+      "ImportPath": "k8s.io/apimachinery/pkg/runtime/schema",
+      "Rev": "5c2ad6597ec5889151b8076d2a54b001605c69ed"
+    },
+    {
+      "ImportPath": "k8s.io/apimachinery/pkg/types",
+      "Rev": "5c2ad6597ec5889151b8076d2a54b001605c69ed"
+    },
+    {
+      "ImportPath": "k8s.io/apimachinery/pkg/util/intstr",
+      "Rev": "5c2ad6597ec5889151b8076d2a54b001605c69ed"
     }
   ]
 }
